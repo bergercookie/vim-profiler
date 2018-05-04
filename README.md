@@ -27,6 +27,12 @@ Optional:
 
 - Matplotlib (for bar plot)
 
+## Installation
+
+```sh
+pip install --user --upgrade git+https://github.com/bchretien/vim-profiler
+```
+
 ## Usage
 
 To list the available options:
